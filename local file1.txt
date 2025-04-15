@@ -1,2 +1,3 @@
 name=bhanu
 password=1234
+gmail=asss@gmail.com
