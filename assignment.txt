@@ -1,0 +1,2 @@
+create a reporisitory in central machine
+create a text file in local machine
